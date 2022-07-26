@@ -27,7 +27,7 @@ The #technical-group #frontend slack channels are good places to find out who el
 
 ### Technical Drop-in (Fortnightly Thursdays) and Merge Mondays (every Monday)
 
-If you want some guidance or help, or just an idea on where to get started come along to the fortnightly Technical Drop-inon Thursdays at 12.15. Merge Mondays runs weekly from 14.00-15.30 and is an opportunity to review current merge requests and get your work merged in.
+If you want some guidance or help, or just an idea on where to get started come along to the fortnightly Technical Drop-in on Thursdays at 12.15. Merge Mondays runs weekly from 14.00-15.30 and is an opportunity to review current merge requests and get your work merged in.
 
 Keep an eye out for the details in the [LocalGov Drupal calendar](https://calendar.google.com/calendar/u/0/embed?src=dnkea9ec90vrkdnrmlo1ng3dik@group.calendar.google.com&ctz=Europe/London). Details on how to add it to your own calendar are on [this page](https://localgovdrupal.org/resources/meeting-schedule).
 
@@ -35,8 +35,4 @@ Keep an eye out for the details in the [LocalGov Drupal calendar](https://calend
 
 #### Technical Group
 
-The Technical Group meets fortnightly with the aim of keeping LocalGov Drupal technically excellent. This group is selected from active LocalGov Drupal contributors from across Councils and active suppliers.
-
-#### Frontend Working Group
-
-The Frontend Group meets regularly to consider the frontend issues. This group is selected from active LocalGov Drupal contributors from across Councils and active suppliers.
+The Technical Group meets fortnightly on Thursdays at 12.15, with the aim of keeping LocalGov Drupal technically excellent. This group is selected from active LocalGov Drupal contributors from across Councils and active suppliers.
