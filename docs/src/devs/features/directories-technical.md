@@ -82,7 +82,7 @@ As an addition, or alternative, to the _Directory Facet_ entity type, you might 
 * Create the Taxonomy vocabulary.
 * Add a reference field from your Directory Item Content Type to the new vocabulary.
 * Add the new field to the index, this can be done at: Administration > Configuration > Search and metadata > Search API > Directories > Manage fields for search index Directories.
-* Create a facet for that field for the Directory view: Configuration > Search and metadata > Search API Directories > Manage fields for search index Directories. You should already see `localgov_directories_facets` under `search_api:views_embed__localgov_directory_channel__node_embed`, it is for this 'Source' you need to add your facet.
+* Create a facet for that field for the Directory view: Configuration > Search and metadata > Facets. You should already see `localgov_directories_facets` under `search_api:views_embed__localgov_directory_channel__node_embed`, it is for this 'Source' you need to add your facet.
 * Place the Facet Block that is then created.
 
 One reason to do this would be to import controlled vocabularies like [OpenActive](https://www.openactive.io/) or [the LGAs lists](https://standards.esd.org.uk/). There is an experimental module [LocalGov Vocab](https://github.com/localgovdrupal/localgov_vocab) that could help to syncronise these.
